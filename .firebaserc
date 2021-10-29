@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "testing": "demo1-pravin",
+    "development": "demo1-development-pravin",
+    "production": "mangalbhavan-dev"
+  }
+}
